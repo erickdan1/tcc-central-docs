@@ -1,0 +1,6 @@
+[submodule "signal-frontend"]
+	path = signal-frontend
+	url = https://github.com/erickdan1/signal-frontend.git
+[submodule "signal-backend"]
+	path = signal-backend
+	url = https://github.com/erickdan1/signal-backend.git
